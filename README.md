@@ -12,12 +12,12 @@ Level System For Player
 # API - Available function
 * getInstance();
 * getLevel();
-* getExp();
+* getXp();
 * setLevel();
-* setExp();
+* setXp();
 * addLevel();
-* addExp();
+* addXp();
 * getMaxLevel();
-* getMaxExp();
+* getMaxXp();
 * Upgrade();
  
