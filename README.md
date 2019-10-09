@@ -8,7 +8,7 @@ Level System For Player
 - [ ] Custom reward
 - [X] Custom Exp and Level
 - [X] API support
-- [ ] Auto Upgrade
+- [X] Auto Upgrade
 # API - Available function
 * getInstance();
 * getLevel();
