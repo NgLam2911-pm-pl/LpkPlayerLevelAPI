@@ -49,14 +49,13 @@ class PlayerLevelAPI extends PluginBase implements Listener
 		$this->saveResource("Message.yml");
 		$this->Message = new Config($this->getDataFolder() . "Message.yml", Config::YAML);
 		$this->msg = $this->Message->getAll();
-	}
-	public function onJoin(PlayerJoinEvent $e)
-	{
+		
 		$task = new UpgradeTask($this, $e->getPlayer());
         $this->tasks[$e->getPlayer()->getId()] = $task;
         $this->getScheduler()->scheduleRepeatingTask($task, 20);
-
-  
+	}
+	public function onJoin(PlayerJoinEvent $e)
+	{
 		$player = $e->getPlayer();
 		$name = strtolower($player->getName());
     
