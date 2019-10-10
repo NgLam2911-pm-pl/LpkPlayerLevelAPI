@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/LamPocketVN/LpkPlayerLevelAPI.svg)](http://hits.dwyl.io/LamPocketVN/LpkPlayerLevelAPI)
 # LpkPlayerLevelAPI
 Level System For Player
 # Features
