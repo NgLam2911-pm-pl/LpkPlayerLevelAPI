@@ -21,4 +21,5 @@ Level System For Player
 * getMaxLevel();
 * getMaxXp();
 * Upgrade();
- 
+# NOTE
+* This plugin is in dev and cannot use now :3
