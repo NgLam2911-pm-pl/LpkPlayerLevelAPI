@@ -5,11 +5,12 @@ Level System For Player
 - [X] Level Can-break
 - [X] Level Can-craft
 - [ ] Level Can-smelt
-- [ ] Custom Message
+- [X] Custom Message
 - [ ] Custom reward
 - [X] Custom Exp and Level
 - [X] API support
 - [X] Auto Upgrade
+- [X] Command ...
 # API - Available function
 * getInstance();
 * getLevel();
@@ -21,5 +22,3 @@ Level System For Player
 * getMaxLevel();
 * getMaxXp();
 * Upgrade();
-# NOTE
-* This plugin is in dev and cannot use now :3
