@@ -1,2 +1,3 @@
 cannot-break: "Bạn chưa đủ Level để đập cục này"
 cannot-craft: "Bạn chưa đủ Level để craft item này"
+upgrade: "§l§a[PlayerLevelAPI]§e Bạn đã nâng cấp thành công ! §l§fLv {level-1} → Lv {level-2}"

@@ -10,10 +10,9 @@ use LamPocketVN\PlayerLevelAPI\PlayerLevelAPI;
 Class UpgradeTask extends Task{
 
 
-    public function __construct(PlayerLevelAPI $plugin, Player $player){
+    public function __construct(PlayerLevelAPI $plugin){
 
         $this->plugin = $plugin;
-        $this->player = $player;
     }
 
     public function onRun($currentTick){
