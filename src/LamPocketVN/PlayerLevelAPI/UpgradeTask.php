@@ -20,7 +20,7 @@ Class UpgradeTask extends Task{
 		{
 		    if ($this->plugin->getLevel($player) < $this->plugin->getMaxLevel())
 			{
-				if ($this->plugin->getXp($player) > $this->plugin->getMaxXp($player))
+				if ($this->plugin->getXp($player) >= $this->plugin->getMaxXp($player))
 				{
 					$this->plugin->Upgrade($player);
 				}
