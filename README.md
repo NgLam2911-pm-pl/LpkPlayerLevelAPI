@@ -3,26 +3,6 @@
 [![Donate](https://img.shields.io/badge/donate-PayPal-yellow.svg?style=flat-square)](https://www.paypal.me/LamPkVN)
 # LpkPlayerLevelAPI
 Level System For Player
-# Features
-- [X] Level Can-break
-- [X] Level Can-craft
-- [ ] Level Can-smelt
-- [X] Custom Message
-- [ ] Custom reward
-- [X] Custom Exp and Level
-- [X] API support
-- [X] Auto Upgrade
-- [X] Command ...
-# API - Available function
-* getInstance();
-* getLevel();
-* getXp();
-* setLevel();
-* setXp();
-* addLevel();
-* addXp();
-* getMaxLevel();
-* getMaxXp();
-* Upgrade();
+* Recoding Project ... :v
 # Help
 * If you think this plugin is good, please donate for me :3. I want to get Minecraft Java account :v
