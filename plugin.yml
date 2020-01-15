@@ -1,8 +1,8 @@
 name: LpkPlayerLevelAPI
 main: LamPocketVN\PlayerLevelAPI\PlayerLevelAPI
 author: LamPocketVN
-api: 3.0.0
-version: 0.0.3
+api: [3.11.0, 4.0.0]
+version: 0.1
 commands:
   plevel:
     description: PlayerLevelAPI command
