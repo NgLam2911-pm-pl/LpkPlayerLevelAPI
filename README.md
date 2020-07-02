@@ -24,5 +24,4 @@ Level System For Player
 * getMaxLevel();
 * getMaxXp();
 * Upgrade();
-# Help
-* If you think this plugin is good, please donate for me :3. I want to get Minecraft Java account :v
+
